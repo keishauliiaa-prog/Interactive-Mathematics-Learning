@@ -79,10 +79,20 @@ The application covers several areas of mathematics, including:
 4. Compile and run the project.
 
 ## 🖥️ Application Preview
+### Home Page
+<img width="889" height="501" alt="image" src="https://github.com/user-attachments/assets/d4dede73-6925-42ae-ae61-2a8f5fa7f15c" />
 
-<img width="890" height="490" alt="image" src="https://github.com/user-attachments/assets/c4878390-c7c7-4e1c-b44a-86c8b4d938b4" />
+### Browse Content
+
+<img width="893" height="495" alt="image" src="https://github.com/user-attachments/assets/f1c9d71d-3bc5-4a11-b251-a1de629d5768" />
 
 
-## 👩‍💻 Developer
+### Math Tool
 
-**Keisha Aulia**
+<img width="600" height="376" alt="image" src="https://github.com/user-attachments/assets/6667a935-d979-4375-a682-c1e81a12f06a" />
+<img width="736" height="426" alt="image" src="https://github.com/user-attachments/assets/3fdc2bbb-09b6-4d0f-a4f3-edfc970d67c5" />
+
+### Games
+
+<img width="734" height="416" alt="image" src="https://github.com/user-attachments/assets/8f8a96c1-ab1f-46c0-a5f5-b16ae26054aa" />
+
