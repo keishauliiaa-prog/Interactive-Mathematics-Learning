@@ -80,8 +80,6 @@ The application covers several areas of mathematics, including:
 
 ## 🖥️ Application Preview
 
-Screenshots of the application interface and its features are provided in this repository.
-
 <img width="890" height="490" alt="image" src="https://github.com/user-attachments/assets/c4878390-c7c7-4e1c-b44a-86c8b4d938b4" />
 
 
